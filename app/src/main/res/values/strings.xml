@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wafilla</string>
+    <string name="title_activity_onboardings">Onboardings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_onboard2">Onboard2</string>
+    <string name="title_activity_on_board3">OnBoard3</string>
+    <string name="title_activity_new_lk">NewLk</string>
+</resources>
